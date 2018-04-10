@@ -1,1 +1,1 @@
-App generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the Scott & Pierre.
+App generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by Scott & Pierre.
